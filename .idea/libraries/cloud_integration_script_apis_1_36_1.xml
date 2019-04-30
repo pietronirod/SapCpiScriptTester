@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cloud.integration.script.apis-1.36.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../SAP CPI/lib/cloud.integration.script.apis-1.36.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SAP CPI/lib/com.sap.it.public.generic.api-2.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
